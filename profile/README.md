@@ -3,20 +3,12 @@
 
 Welcome to the official GitHub repository for Limex DataHub clients and algorithmic trading research examples. Here, you'll find comprehensive tools and guides for quantitative analysis, designed for both Python and R users. Whether you're exploring momentum trading, mean reversion strategies, or other quantitative techniques, our repository serves as a one-stop resource.
 
-## Features
+## Features  👩‍💻
 
  - R & Python Clients: Ready-to-use client libraries for integrating Limex DataHub services in your R and Python applications.
  - Algorithmic Trading Examples: Jupyter notebooks showcasing practical examples of various algorithmic trading strategies.
  - How-To Guides: Step-by-step tutorials on leveraging Limex DataHub data for your quantitative research in Python and R.
- - Active Bug Tracker: Utilize the issues section to report bugs, track fixes, and request new features.
-   
-## Usage 👩‍💻
-
-Install: Follow our guides to set up the R or Python environment and install necessary dependencies.
-Learn: Browse through our how-to guides and examples to start your quantitative research.
-Contribute: Spot an issue? Want to enhance our code? Report and track in the repository issues.
-Support
-
+ - Active Bug Tracker: Utilize the issues section to report bugs, track fixes, and request new features.   
 Questions or need assistance? Our community and maintainers are here to help. Check out the issues section for support and to connect with fellow researchers.
 
 ## Contributions 🙋‍♀️
