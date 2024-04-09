@@ -8,7 +8,7 @@ Welcome to the official GitHub repository for Limex DataHub clients and algorith
  - Algorithmic Trading [Examples](https://github.com/Limex-com/AlgoTrading): Jupyter notebooks showcasing practical examples of various algorithmic trading strategies.
  - [R](https://github.com/Limex-com/limexhub-r) & [Python](https://github.com/Limex-com/limexhub-python)  Clients: Ready-to-use client libraries for integrating Limex DataHub services in your R and Python applications.
  - How-To Guides: Step-by-step tutorials on leveraging Limex DataHub data for your quantitative research in Python and R.
- - Active Bug Tracker: Utilize the issues section to report bugs, track fixes, and request new features.   
+ - Active [Bug Tracker](https://github.com/Limex-com/-Issues-): Utilize the issues section to report bugs, track fixes, and request new features.   
 Questions or need assistance? Our community and maintainers are here to help. Check out the issues section for support and to connect with fellow researchers.
 
 ## Contributions 🙋‍♀️
