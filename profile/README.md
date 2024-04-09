@@ -19,10 +19,7 @@ Contributions are welcome! If you'd like to improve the documentation, add new s
 
 Star this repository and watch for updates to keep abreast of new additions and improvements.
 
-Join us in advancing the world of algorithmic trading with Limex DataHub!
-
-This description provides an overview of the repository, highlights its main features, and encourages community involvement. Adjust any part of this as per the exact specifics and offerings of your service.
-
+Join us in advancing the world of algorithmic trading with [Limex DataHub](https://datahub.limex.com)!
 
 
 <!--
