@@ -1,5 +1,5 @@
 
-## Limex DataHub and Algotrading Research Repository
+## ZipLime and Limex DataHub Repository
 
 Welcome to the official GitHub repository for Limex DataHub clients and algorithmic trading research examples. Here, you'll find comprehensive tools and guides for quantitative analysis, designed for both Python and R users. Whether you're exploring momentum trading, mean reversion strategies, or other quantitative techniques, our repository serves as a one-stop resource.
 
